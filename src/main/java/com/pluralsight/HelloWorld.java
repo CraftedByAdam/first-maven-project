@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("I am Adam!");
         System.out.println("Learning Java!");
         System.out.println("Let's Go!");
+        System.out.println("I Love Potatoes!");
     }
 }
